@@ -1,0 +1,9 @@
+# Project exclude paths
+/.gradle/
+/Cinema Room Manager/task/build/
+/Cinema Room Manager/task/out/
+/Cinema Room Manager/task/out/production/classes/
+/Topics/Declaring a method/The sign of a number/out/
+/Topics/Declaring a method/The sign of a number/out/production/classes/
+/Topics/Declaring a method/Vowel or not/out/
+/Topics/Declaring a method/Vowel or not/out/production/classes/
